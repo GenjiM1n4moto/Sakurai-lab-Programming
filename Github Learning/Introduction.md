@@ -141,3 +141,14 @@ git commit -m "Third one"
 
 To simplify the process, we can use __github desktop__.
 
+![githubDesktop](assets/github.png)
+
+Different from complicated commands, you can just push the buttons to do things like before without typing various commands.
+
+From now on, I hope you can upload your presentation files on github so that we can manage the process much more easily.
+
+I will invite you as a collaborator after you send me your email or username, so, please send me as soon as possible.
+
+You can create your own branch so that you can change anything on this project, and once if you think you upgrade it better, you can push your branch and ask for merge.
+
+I would like to introduce more this time, but time is limited and we have other tasks to do, so if you are interested in git or github, we can talk about it on this study session and share our opinion about it.
